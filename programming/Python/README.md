@@ -4,6 +4,6 @@
 
 <p align="center">
   
-<img src="./lena.JPG"  width="640" height="200">
+<img src="./lena.png"  width="640" height="200">
 
 </p>
