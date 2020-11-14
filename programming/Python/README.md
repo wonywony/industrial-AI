@@ -8,6 +8,8 @@
 
 - CNN_HMM.py : 객체 인식 코딩
 
-<img src="./bn.png"  width="640" height="200">
+<p align="center">
+
+<img src="./bn.jpg"  width="640" height="200">
 
 </p>
