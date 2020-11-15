@@ -1,0 +1,8 @@
+중간고사를 Mid-Term Project로 진행하겠습니다.
+
+아래의 내용을 참고해서 2020년 11월 2일에 수업시간에 발표를 진행하도록 하겠습니다. 
+
+1. 이번시간까지 배운 Image Input/Output, Histogram, Filtering, Frequency-based Image Processing, Boundary Extraction, Image Segmentation 
+   중에 최소 3개의 이상의 기법을 이용해서 현업에서 필요한 프로그램을 만드시오.
+
+2. 프로그램의 아이디어와 결과를 담은 발표자료를 만드시오.
