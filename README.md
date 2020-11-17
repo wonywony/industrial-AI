@@ -11,7 +11,7 @@
 <p align="center">
   
 <img src="./images/choiwonhee.jpg"  width="350" height="400">
-<img src="./images/spring.png"  width="350" height="400">
+<img src="./images/spring.png"  width="300" height="250">
 </p>
 </br>
 
