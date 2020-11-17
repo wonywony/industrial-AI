@@ -8,6 +8,13 @@
 
 인공지능 기반 자율주행 모빌리티 회사를 재직하고 있으며, 폭 넓은 지식함양을 위해 본 학과를 수학하게 되었습니다.
 
+<p align="center">
+  
+<img src="./images/.JPG"  width="640" height="300">
+
+</p>
+</br>
+
 
 ## Contacts
 
