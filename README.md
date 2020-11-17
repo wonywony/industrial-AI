@@ -38,10 +38,9 @@
 
 ### AI 관련 프로그래밍
 
-- `2020-10` [기계학습](https://github.com/wonywony/industrial-AI/tree/master/programming/기계학습): PCA, SVM, HMM 등 기계학습 관련 알고리즘 구현
-- `2020-10` [네트워크-통신](https://github.com/wonywony/industrial-AI/tree/master/programming/네트워크-통신): IoT 관련 네트워크 프로그래밍
-- `2020-10` [딥러닝](https://github.com/wonywony/industrial-AI/tree/master/programming/딥러닝): MLP, CNN, RNN 등 딥러닝 활용 프로그래밍
-- `2020-10` [빅데이터분석](https://github.com/wonywony/industrial-AI/tree/master/programming/빅데이터분석): 빅데이터 분석 알고리즘 구현
+- `2020-10` [C#](https://github.com/wonywony/industrial-AI/tree/master/programming/C#): C#
+- `2020-10` [CPP](https://github.com/wonywony/industrial-AI/tree/master/programming/CPP): CPP
+- `2020-10` [Python](https://github.com/wonywony/industrial-AI/tree/master/programming/Python): Python
 
 ### GitHub 교육
 
@@ -49,6 +48,6 @@
 
 ### 재학생 포트폴리오 현황
 
-- `2020-11` [재학생이름](GitHub link): 재학생 GitHub 포트폴리오 주소
+- `2020-11` [최원희](GitHub link): 재학생 GitHub 포트폴리오 주소 : https://github.com/wonywony/industrial-AI
 
 
