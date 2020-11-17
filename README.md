@@ -10,7 +10,7 @@
 
 <p align="center">
   
-<img src="./images/choiwonhee.jpg"  width="640" height="400">
+<img src="./images/choiwonhee.jpg"  width="400" height="400">
 
 </p>
 </br>
