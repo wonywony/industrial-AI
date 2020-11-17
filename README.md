@@ -38,7 +38,7 @@
 
 ### AI 관련 프로그래밍
 
-- `2020-10` [C#](https://github.com/wonywony/industrial-AI/tree/master/programming/C#): C#
+- `2020-10` [C#](https://github.com/wonywony/industrial-AI/tree/master/programming/#): C#
 - `2020-10` [CPP](https://github.com/wonywony/industrial-AI/tree/master/programming/CPP): CPP
 - `2020-10` [Python](https://github.com/wonywony/industrial-AI/tree/master/programming/Python): Python
 
