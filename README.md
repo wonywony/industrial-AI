@@ -36,7 +36,7 @@
 - `2020-09` [어프렌티스 프로젝트](https://github.com/wonywony/industrial-AI/tree/master/projects/어프렌티스-프로젝트): 문제해결방법론 교육 및 프로젝트 준비
 - `2020-09` [산업 컴퓨터비전 실제](https://github.com/wonywony/industrial-AI/tree/master/projects/산업-컴퓨터비전-실제): OpenCV를 활용한 영상 개선, 영상 분할, 객체 검출/추적 구현 
 - `2021-03` [IOT 플랫폼과 IOT 장치 설계](https://github.com/wonywony/industrial-AI/tree/master/projects/IOT 플랫폼과 IOT 장치 설계): AWS 기반의 빅데이터 처리 기술의 이해와 실습
-- `2021-03` [산업 빅데이터분석 실제](https://github.com/wonywony/industrial-AI/tree/master/projects/산업 빅데이터분석 실제): 데이터 분석 및 시각화 분석 도구를 활용한 주요 이슈의 이
+- `2021-03` [산업 빅데이터분석 실제](https://github.com/wonywony/industrial-AI/tree/master/projects/산업 빅데이터분석 실제): 데이터 분석 및 시각화 과정의 이해
 - `2021-09` [산업인공지능 개론](https://github.com/wonywony/industrial-AI/tree/master/projects/산업인공지능 개론): Python 기반의 오픈소스를 활용한 실습 및 프로젝트 수행을 통한 결과물 산출
 - `2021-09` [지능화 파일럿 프로젝트](https://github.com/wonywony/industrial-AI/tree/master/projects/지능화 파일럿 프로젝트): 인공지능 관련 프레임워크 활용 역량 강화
 - `2022-03` [지능화 캡스톤 프로젝트](https://github.com/wonywony/industrial-AI/tree/master/projects/지능화 캡스톤 프로젝트): 인공지능 기술을 활용한 문제해결 역량 배양
